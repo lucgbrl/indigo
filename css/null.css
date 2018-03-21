@@ -1,0 +1,48 @@
+#index-banner{
+    height:700px;
+
+}
+.list{
+    height: 200px;
+    background: #f8f8f8;
+}
+.parallax-container{
+    height: 800px;
+  }
+  #map{
+    height: 100%;
+  }
+  .cardset
+  {
+      height: auto;
+      padding: 25px;
+      background: url('../img/bg.jpg');
+      background-size: 1860px;
+  }
+  .card-content{
+    height: 500px;
+  }
+  .section{
+    height: auto;
+    padding: 25px;
+  }
+  .col.s10.m4{
+      padding: 20px;
+
+  }
+  .ctg{
+    height: 600px;
+    background-color: teal;
+  }
+  .flow{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    height: auto;
+  }
+  .parallax-container.valign-wrapper
+  {
+      height: 600px;
+      padding-top: 50px;
+      margin-bottom: 50px;
+  }
+  
